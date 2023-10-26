@@ -5,6 +5,12 @@
 Spark - a tiny web framework for Java 8
 ==============================================
 
+Experiment Disclaimer
+---
+
+This repository was modified to be used in a software engineering research experiment.
+This repository has been referenced as a [case study project](https://www.evosuite.org/experimental-data/github-subjects/) by [Evosuite](https://www.evosuite.org/).
+
 **Spark 2.9.4 is out!!**
 ```xml
 <dependency>
